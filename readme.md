@@ -1,5 +1,9 @@
 # Test the Time To First Byte in Command Line Interface
 
+## What you get 
+
+<img src="http://g.recordit.co/CIIVUXEn2j.gif" style="display:block;margin:auto;">
+
 ## What you need
 
 You need to have curl installed on your machine.
