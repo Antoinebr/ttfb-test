@@ -1,0 +1,14 @@
+{
+  "name": "ttfb-test",
+  "version": "0.1.0",
+  "description": "Test the Time To First Byte from command line ",
+  "preferGlobal": true,
+  "bin": {
+    "ttfb-test": "request.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "antoinebr",
+  "license": "ISC"
+}
